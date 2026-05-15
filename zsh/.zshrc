@@ -74,7 +74,7 @@ alias ls='ls --color'
 alias vim='nvim'
 alias c='clear'
 alias wc='warp-cli connect'
-alias wdc='warp-cli disconnect'
+alias wd='warp-cli disconnect'
 # Shell integrations
 eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
